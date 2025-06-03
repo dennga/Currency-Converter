@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="28cm" height="64cm" viewBox="923 54 551 1276" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="1075.48" y="55" width="127.525" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1075.48" y="55" width="127.525" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1139.24" y="78.8">
+      <tspan x="1139.24" y="78.8">Start</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1139.24" y1="93" x2="1140.92" y2="191.529"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1135.79,183.851 1140.96,193.764 1145.79,183.68 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1039.72" y="196" width="202.55" height="50"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1039.72" y="196" width="202.55" height="50"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1141" y="225.8">
+      <tspan x="1141" y="225.8">Waehrungsrechner_initialisieren</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1002.22" y="320" width="271.55" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1002.22" y="320" width="271.55" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1138" y="343.8">
+      <tspan x="1138" y="343.8">Ausgabe: "Willkommen"</tspan>
+      <tspan x="1138" y="359.8">Ausgabe: Verfügbare Waehrungen anzeigen</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1053.78" y="447" width="160.45" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1053.78" y="447" width="160.45" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1134" y="470.8">
+      <tspan x="1134" y="470.8">Eingabe: Quellwaehrung</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1059.3" y="568" width="151.4" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1059.3" y="568" width="151.4" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1135" y="591.8">
+      <tspan x="1135" y="591.8">Eingabe: Zielwaehrung</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="1130,681 1219.34,727.372 1130,773.744 1040.66,727.372 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1130,681 1219.34,727.372 1130,773.744 1040.66,727.372 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1130" y="732.172">
+      <tspan x="1130" y="732.172">Eingabe gültig ?</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1141" y1="246" x2="1138.18" y2="315.532"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1133.5,307.571 1138.09,317.766 1143.49,307.977 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1138" y1="374" x2="1134.24" y2="442.535"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1129.68,434.509 1134.12,444.767 1139.66,435.056 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1134" y1="485" x2="1134.95" y2="563.528"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1129.85,555.825 1134.97,565.764 1139.85,555.705 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1135" y1="606" x2="1130.3" y2="676.538"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1125.83,668.458 1130.15,678.769 1135.8,669.124 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1130" y1="773.744" x2="1247.68" y2="880.003"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1238.57,878.511 1249.34,881.501 1245.27,871.089 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1130" y1="773.744" x2="1035" y2="878.685"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1036.51,869.573 1033.5,880.342 1043.92,876.284 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="951.45" y="882" width="161.1" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="951.45" y="882" width="161.1" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1032" y="905.8">
+      <tspan x="1032" y="905.8">Wechselkurs abrufen</tspan>
+    </text>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1032" y="819">
+    <tspan x="1032" y="819">JA</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1198" y="803">
+    <tspan x="1198" y="803">NEIN</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="1137.88" y="883" width="226.25" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1137.88" y="883" width="226.25" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1251" y="906.8">
+      <tspan x="1251" y="906.8">Ausgabe: Fehler(Ungültige Eingabe)</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1251" y1="921" x2="1251" y2="990.528"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1246,982.764 1251,992.764 1256,982.764 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1032" y1="920" x2="1032" y2="989.528"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1027,981.764 1032,991.764 1037,981.764 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="924.425" y="991" width="217.15" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="924.425" y="991" width="217.15" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1033" y="1014.8">
+      <tspan x="1033" y="1014.8">Betrag umrechnen (Betrag * Kurs)</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1159.45" y="993" width="207.1" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1159.45" y="993" width="207.1" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1263" y="1016.8">
+      <tspan x="1263" y="1016.8">Möchte Benutzer erneut starten?</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1263" y1="1031" x2="1263" y2="1286.53"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1258,1278.76 1263,1288.76 1268,1278.76 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1033" y1="1029" x2="1033.95" y2="1116.53"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1028.87,1108.82 1033.98,1118.76 1038.87,1108.71 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="927.25" y="1121" width="205.5" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="927.25" y="1121" width="205.5" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1030" y="1144.8">
+      <tspan x="1030" y="1144.8">Ausgabe: Umrechnetes Ergebnis</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1236.18" y="1291" width="53.65" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1236.18" y="1291" width="53.65" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1263" y="1314.8">
+      <tspan x="1263" y="1314.8">ENDE</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1030" y1="1159" x2="1232.41" y2="1288.59"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1223.17,1288.61 1234.29,1289.79 1228.57,1280.19 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1314.78,1031 1314.78,1052 1467,1052 1467,462.472 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1472,470.236 1467,460.236 1462,470.236 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1468" y1="466" x2="1218.7" y2="466"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1226.46,461 1216.46,466 1226.46,471 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1281" y="1188">
+    <tspan x="1281" y="1188">NEIN</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1415" y="1027">
+    <tspan x="1415" y="1027">JA</tspan>
+  </text>
+</svg>

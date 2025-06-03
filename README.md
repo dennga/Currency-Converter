@@ -12,6 +12,18 @@ Dieses Projekt ist ein einfacher Währungsumrechner mit einer grafischen Benutze
 * Umrechnung von Daten.
 * Einbindung eines Hintergrundbildes.
 
+## Anwendungslogik 
+
+![Flussdiagramm des Währungsrechners](waehrungsrechner_flussdiagramm.svg)
+
+
+
+
+
+
+
+
+
 ## Autor
 
 * \[Dennis Garscha]
