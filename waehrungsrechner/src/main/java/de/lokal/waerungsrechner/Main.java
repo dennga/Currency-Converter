@@ -59,7 +59,7 @@ public class Main {
         }
         // Ergebnisausgabe falls gültig
         if (eingabegueltig) {
-            System.out.println(Endbetrag + ZielWaehrungInput);
+            System.out.printf("Das macht dann: %.2f %s\n",Endbetrag, ZielWaehrungInput);
 
         }
 
